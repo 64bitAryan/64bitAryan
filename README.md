@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aryan 
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Native Android Development using Kotlin
-- 💞️ I’m looking to collaborate to any
+- 🌱 I’m currently an Native Android Development using Kotlin
+- 💞️ I’m looking for an opportunity to showcase my skills. 
 - 📫 My Email: patelaryan1726@gmail.com
 
 <!---
